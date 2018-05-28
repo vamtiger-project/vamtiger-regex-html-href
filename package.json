@@ -1,6 +1,6 @@
 {
     "name": "vamtiger-regex-html-href",
-    "version": "0.0.1",
+    "version": "0.0.2-0",
     "description": "A regular expression to match an href for a defined html string.",
     "main": "build",
     "scripts": {
