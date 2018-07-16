@@ -1,4 +1,4 @@
-# VAMTIGER Bash
+# VAMTIGER Regex HTML HREF
 [VAMTIGER Regex HTML HREF](https://github.com/vamtiger-project/vamtiger-regex-html-href) will match an href for a defined html string.
 
 ## Installation
